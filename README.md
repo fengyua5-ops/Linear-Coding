@@ -1,2 +1,1 @@
-Finite-blocklength Linear Coding with Strictly
-Causal Interference Side Information at Encoder  
+# Finite-Blocklength Linear Coding with Strictly Causal Interference Side Information at Encoder
